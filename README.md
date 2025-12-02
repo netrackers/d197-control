@@ -1,1 +1,3 @@
-# d197-control
+# D197 - Version control 
+
+## This is a practice repository
